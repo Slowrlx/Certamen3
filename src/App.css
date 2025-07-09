@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #000000;
+  background-color: #666464;
   margin: 0;
   padding: 0;
   display: flex;
@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #acf000;
 }
 
 table {
@@ -67,7 +67,7 @@ th, td {
 }
 
 th {
-  background-color: #f2ff00;
+  background-color: #794100;
   color: rgb(0, 0, 0);
 }
 

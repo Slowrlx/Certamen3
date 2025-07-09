@@ -103,7 +103,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Aplicación de Evaluación de Alumnos</h1>
+      <h1>Certamen 3 Evaluación de Alumnos</h1>
       <form onSubmit={handleSubmit}>
         <input name="nombre" placeholder="Nombre" value={form.nombre} onChange={handleChange} />
         <input name="asignatura" placeholder="Asignatura" value={form.asignatura} onChange={handleChange} />
