@@ -114,11 +114,11 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>Nombre</th>
+            <th>Alumno</th>
             <th>Asignatura</th>
             <th>Promedio</th>
             <th>Escala</th>
-            <th>Acciones</th>
+            <th>Funciones</th>
           </tr>
         </thead>
         <tbody>
